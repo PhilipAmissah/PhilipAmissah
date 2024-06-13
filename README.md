@@ -41,7 +41,7 @@ A Full Stack Developer specializing in designing, building, and maintaining web 
 You can reach me or send me an email at philipamissah@outlook.com.
 
 ## ⚡ Fun fact
-When I'm not coding, you'll find me on the soccer field or reading a good book.
+When I'm not coding, you'll find me at the gym or reading a good book.
 
 
 <!---
