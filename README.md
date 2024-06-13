@@ -1,6 +1,6 @@
 # Hello, I'm Philip Amissah 👋
 
-I'm a Full Stack Developer specializing in designing, building, and maintaining web applications. I'm passionate about creating software that not only functions efficiently under the hood, but also provides intuitive, pixel-perfect user interfaces.
+A Full Stack Developer specializing in designing, building, and maintaining web applications. I'm passionate about creating software that not only functions efficiently under the hood, but also provides intuitive, pixel-perfect user interfaces.
 
 ## 🛠️ My Skills
 
